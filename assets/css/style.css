@@ -654,6 +654,18 @@ li.has-submenu:hover .mega-menu {
   color: red !important;
 }
 
+/* header */
+@media screen and (min-width: 601px) {
+	div.user_header {
+	  font-size: 8px;
+	}
+  }
+  @media screen and (min-width: 201px) {
+	div.user_header {
+	  font-size: 12px;
+	}
+  }
+/* end header */
 /* Mega Menu CSS ENDS */
 
 
