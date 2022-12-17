@@ -99,18 +99,23 @@
 }
 .st_seat_lay_row #c34[type="checkbox"] + label:before {
 	content:"D4";
+	background-color: red;
 
 }
 .st_seat_lay_row #c35[type="checkbox"] + label:before {
 	content:"D5";
+	background-color: red;
 	
 }
 .st_seat_lay_row #c36[type="checkbox"] + label:before {
 	content:"D6";
+	background-color: red;
+
 
 }
 .st_seat_lay_row #c37[type="checkbox"] + label:before {
 	content:"D7";
+	background-color: red;
 	
 }
 .st_seat_lay_row #c38[type="checkbox"] + label:before {
@@ -133,18 +138,24 @@
 }
 .st_seat_lay_row #c44[type="checkbox"] + label:before {
 	content:"E4";
+	background-color: red;
 }
 .st_seat_lay_row #c45[type="checkbox"] + label:before {
 	content:"E5";
+	background-color: red;
 }
 .st_seat_lay_row #c46[type="checkbox"] + label:before {
 	content:"E6";
+	background-color: red;
 }
 .st_seat_lay_row #c47[type="checkbox"] + label:before {
 	content:"E7";
+	background-color: red;
 }
 .st_seat_lay_row #c48[type="checkbox"] + label:before {
 	content:"E8";
+	
+	
 }
 .st_seat_lay_row #c49[type="checkbox"] + label:before {
 	content:"E9";
@@ -163,15 +174,19 @@
 }
 .st_seat_lay_row #c54[type="checkbox"] + label:before {
 	content:"F4";
+	background-color: red;
 }
 .st_seat_lay_row #c55[type="checkbox"] + label:before {
 	content:"F5";
+	background-color: red;
 }
 .st_seat_lay_row #c56[type="checkbox"] + label:before {
 	content:"F6";
+	background-color: red;
 }
 .st_seat_lay_row #c57[type="checkbox"] + label:before {
 	content:"F7";
+	background-color: red;
 }
 .st_seat_lay_row #c58[type="checkbox"] + label:before {
 	content:"F8";
